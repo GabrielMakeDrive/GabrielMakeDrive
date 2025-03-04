@@ -10,6 +10,35 @@
 - 📫 Para entrar em contato pode me chamar no Linkedin
 - ⚡ Curiosidade: Gosto de jogar MMO RPG
 
+
+## 🚀 Tecnologias & Habilidades
+<div align="center">
+
+### 💻 Linguagens de Programação
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### 🏗️ Tecnologias BIM & Engenharia
+![BIM](https://img.shields.io/badge/-BIM-00A2E8?style=for-the-badge&logo=autodesk&logoColor=white)
+![OpenBIM](https://img.shields.io/badge/-OpenBIM-007396?style=for-the-badge&logo=openproject&logoColor=white)
+![IFC](https://img.shields.io/badge/-IFC-FF6C37?style=for-the-badge&logo=ifc&logoColor=white)
+![TQS](https://img.shields.io/badge/-TQS-4D4D4D?style=for-the-badge&logoColor=white)
+
+### 🔧 Ferramentas & Frameworks
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Visualização 3D](https://img.shields.io/badge/-Visualização%203D-31A8FF?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Automação](https://img.shields.io/badge/-Automação-47A248?style=for-the-badge&logo=node-red&logoColor=white)
+</div>
+
+## Projetos Destacados
+- 🏢 **Make4BIM**: Ferramentas para integração BIM
+- 🎮 **Visualizadores 3D**: Modelos interativos para navegação imersiva
+- 🔄 **Processadores IFC**: Soluções para manipulação de dados OpenBIM
+- ⚙️ **Automação**: Ferramentas para otimizar processos em engenharia
+
 ## Entre em contato
 Me siga nas redes sociais:
 
